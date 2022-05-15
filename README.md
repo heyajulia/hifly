@@ -23,4 +23,4 @@ View the docs at https://hifly.fly.dev/docs/.
 [fastapi]: https://fastapi.tiangolo.com/
 [fly]: https://fly.io
 [license]: ./LICENSE
-[issues]: issues/new
+[issues]: https://github.com/heyajulia/hifly/issues/new
